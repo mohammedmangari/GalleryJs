@@ -1,4 +1,4 @@
-# galleryOfImages
+# GalleryJs
 
 
 ### HTML code
